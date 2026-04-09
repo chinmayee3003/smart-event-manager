@@ -134,11 +134,6 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots of login page, dashboard, events page, admin panel.*
-
----
 
 ## 📈 Future Improvements
 
